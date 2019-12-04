@@ -1,0 +1,4 @@
+
+%hook ClassName
+
+%end
