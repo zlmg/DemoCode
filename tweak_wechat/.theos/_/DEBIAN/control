@@ -1,0 +1,10 @@
+Package: com.zlmg.wechat
+Name: tweak_wechat
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ZHOULIMIN
+Author: ZHOULIMIN
+Section: Tweaks
+Version: 0.0.1-18+debug
+Installed-Size: 244

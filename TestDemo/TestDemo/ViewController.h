@@ -2,7 +2,7 @@
 //  ViewController.h
 //  TestDemo
 //
-//  Created by ZHOULIMIN on 2019/12/2.
+//  Created by ZHOULIMIN on 2019/12/4.
 //  Copyright © 2019 zlmg. All rights reserved.
 //
 
@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
+@property (nonatomic, copy) NSString *name;
 
 @end
 

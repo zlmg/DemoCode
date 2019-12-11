@@ -1,4 +1,0 @@
-
-%hook ClassName
-
-%end
