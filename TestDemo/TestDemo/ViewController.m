@@ -66,5 +66,12 @@
     [ud synchronize];
 }
 
+- (void)test2 {
+    
+    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"12321" message:@"message" delegate:nil cancelButtonTitle:@"ok" otherButtonTitles:nil];
+    [alert show];
+    
+}
+
 
 @end
